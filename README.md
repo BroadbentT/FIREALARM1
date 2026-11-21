@@ -1,6 +1,10 @@
 
 # FIRE ALARM SYSTEM
-## USE OF A MC68HC11F1 (8-BIT) MICRO-CONTROLLER WITH PORTED VISUAL STUDIO ANSI C COMPUTER PROGRAMMING LANGUAGE TO CONSTRUCT A SOPHISTICATED FIRE ALARM SYSTEM
+**USE OF A MC68HC11F1 (8-BIT) MICRO-CONTROLLER WITH PORTED VISUAL STUDIO ANSI C COMPUTER PROGRAMMING LANGUAGE TO CONSTRUCT A SOPHISTICATED FIRE ALARM SYSTEM**
+
+<p align="center">
+  <img src="https://github.com/BroadbentT/PDF-CRACKER/blob/master/Cyberpunk%20PDF%20Cracker%20Banner.png" alt="PDF CRACKER Banner">
+</p>
 
 | LANGUAGE | FILENAME               | MD5 Hash                         |
 |------    |------                  | -------                          |
